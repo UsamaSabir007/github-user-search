@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
+
+# What this application accomplishes
+
+This project called "Github User Search" is a website created using React Js. Users can search the profiles of people on Github using name or github id and visit their profiles by clicking on the url returend in search results.  
+## Technologies Used
+
+This project is built using React Js. In React JS, I have used functional components to create this application. 
 
 ## Available Scripts
 
